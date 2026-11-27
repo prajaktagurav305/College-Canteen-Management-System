@@ -1,0 +1,14 @@
+
+# Java compiled files
+*.class
+
+# Canteen order data
+orders.txt
+
+# IDE files
+.vscode/
+.idea/
+*.iml
+
+# Temporary files
+*.tmp
